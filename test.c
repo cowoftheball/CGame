@@ -7,7 +7,7 @@ void helloWorld() {
 
 	char userInput[10];
 
-	printf("Who am I? ");
+	printf("Who am I: ");
 
 	scanf("%s", userInput);
 
