@@ -1,0 +1,11 @@
+# VSCode
+.vscode/*
+!.vscode/settings.json
+!.vsode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+!.vscode/c_cpp_properties.json
+*.code-workspace
+
+#Local History for VSCode
+.history/
