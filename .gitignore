@@ -7,6 +7,8 @@
 !.vscode/c_cpp_properties.json
 *.code-workspace
 *.o
+whoAmI
+.vscode
 
 #Local History for VSCode
 .history/
