@@ -6,6 +6,7 @@
 !.vscode/extensions.json
 !.vscode/c_cpp_properties.json
 *.code-workspace
+*.o
 
 #Local History for VSCode
 .history/
