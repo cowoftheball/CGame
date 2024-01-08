@@ -1,9 +1,9 @@
 #include <stdio.h>
-#include "test.h"
+#include "main.h"
 
 int main() {
 
-	helloWorld(); //calling helloWorld function from test.h
+	whoami(); //calling whoami function from main.h
 
 	return 0;
 

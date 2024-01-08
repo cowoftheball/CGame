@@ -1,9 +1,9 @@
 #include <stdio.h>
-#include "test.h"
+#include "main.h"
 
 // Implementation of the function declared in the header file
 
-void helloWorld() {
+void whoamii() {
 
 	char userInput[10];
 
